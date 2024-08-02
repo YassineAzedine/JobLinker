@@ -56,7 +56,7 @@ export default function  Register (){
   return (
     <>
     <NavBar />
-    <div className='w-full h-screen bg-indigo-600 '>
+    <div className='w-full h-screen bg-indigo-400 '>
       <div className="flex flex-col text-center items-center justify-center px-6 py-8 mx-auto h-screen lg:py-0 shadow-xl">
 
         <div className="w-full bg-white rounded-lg shadow dark:border text-black md:mt-0 sm:max-w-md xl:p-0 ">
